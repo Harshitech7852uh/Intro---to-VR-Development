@@ -36,9 +36,9 @@ The scene consists of simple geometric objects such as cubes, spheres, and plane
 
 📷 Screenshots
 
-(Add your rendered images below)
+## 📸 Screenshots
 
----
+![Scene](scene.png)
 
 📚 Learning Experience
 
