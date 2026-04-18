@@ -39,7 +39,18 @@ The scene consists of simple geometric objects such as cubes, spheres, and plane
 ## 📸 Screenshots
 
 ![Scene](scene.png)
+## Workshop Experience
 
+- Learned 3D modeling from scratch using Blender
+- Built a complete scene with geometric objects, lighting, and composition
+- Understood VR development concepts and how 3D assets fit into VR environments
+- Collaborated and learned alongside peers in the IEEE PSIT Student Branch
+- Gained hands-on experience in documenting and publishing projects on GitHub
+
+## Key Takeaways
+- 3D modeling is about patience and iteration
+- Good lighting transforms a scene completely
+- Version control (GitHub) is essential for any project
 📚 Learning Experience
 
 This workshop helped me gain hands-on experience with Blender and understand the workflow of 3D scene creation. I learned how to navigate in a 3D environment, manipulate objects, and apply transformations effectively.
